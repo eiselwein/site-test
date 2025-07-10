@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>eiselwein</title>
+    <link href="https://test.eiselwein.de/feed.xml" rel="self" />
+    <link href="https://test.eiselwein.de" />
+    <updated>2025-07-10T22:41:35+02:00</updated>
+    <author>
+        <name>Chris</name>
+    </author>
+    <id>https://test.eiselwein.de</id>
+
+    <entry>
+        <title>Kultur- und Weinbotschafter Pfalz</title>
+        <author>
+            <name>Chris</name>
+        </author>
+        <link href="https://test.eiselwein.de/wer-ich-bin/"/>
+        <id>https://test.eiselwein.de/wer-ich-bin/</id>
+
+        <updated>2025-07-10T21:59:50+02:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>Thorsten Eiselstein, Jahrgang 1978</p>
+<p>Anerkannter Berater für Deutschen Wein (DWI)</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Thorsten Eiselstein, Jahrgang 1978</p>
+<p>Anerkannter Berater für Deutschen Wein (DWI)</p>
+
+<p>Thorsten Eiselstein, Jahrgang 1978</p>
+<p>In Ludwigshafen am Rhein geboren/aufgewachsen in Weisenheim am Berg<br>Studium der Pädagogik mit den Schwerpunkten Erwachsenenbildung und Sozialpädagogik</p>
+<p>Fachleiter am Seminar für Ausbildung und Fortbildung der Lehrkräfte Karlsruhe (Berufliche Schulen)</p>
+<p>Anerkannter Berater deutscher Wein (DWI)<br>Kultur- und Weinbotschafter Pfalz (DLR)</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
