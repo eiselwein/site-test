@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>eiselwein</title>
+    <title>eiselwein test</title>
     <link href="https://test.eiselwein.de/feed.xml" rel="self" />
     <link href="https://test.eiselwein.de" />
     <updated>2025-07-10T22:41:35+02:00</updated>
