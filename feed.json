@@ -7,22 +7,22 @@
     "user_comment": "",
     "icon": "https://test.eiselwein.de/media/website/743c0ad0-10df-44d7-841c-85a900b7a3a7.png",
     "author": {
-        "name": "Chris"
+        "name": "Eiselwein"
     },
     "items": [
         {
             "id": "https://test.eiselwein.de/wer-ich-bin/",
             "url": "https://test.eiselwein.de/wer-ich-bin/",
-            "title": "Kultur- und Weinbotschafter Pfalz",
-            "summary": "<p>Thorsten Eiselstein, Jahrgang 1978</p>\n<p>Anerkannter Berater für Deutschen Wein (DWI)</p>\n",
-            "content_html": "<p>Thorsten Eiselstein, Jahrgang 1978</p>\n<p>Anerkannter Berater für Deutschen Wein (DWI)</p>\n\n<p>Thorsten Eiselstein, Jahrgang 1978</p>\n<p>In Ludwigshafen am Rhein geboren/aufgewachsen in Weisenheim am Berg<br>Studium der Pädagogik mit den Schwerpunkten Erwachsenenbildung und Sozialpädagogik</p>\n<p>Fachleiter am Seminar für Ausbildung und Fortbildung der Lehrkräfte Karlsruhe (Berufliche Schulen)</p>\n<p>Anerkannter Berater deutscher Wein (DWI)<br>Kultur- und Weinbotschafter Pfalz (DLR)</p>",
+            "title": "Eiselwein – Pfalzerlebnisse rund um den Wein",
+            "summary": "<p>Pfälzer Weinbergführungen, Weinseminare und Rundgänge durch den Edelweinort Weisenheim am Berg </p>\n<p> </p>\n<p><strong>Thorsten Eiselstein</strong></p>\n<p>Anerkannter Berater für Deutschen Wein (DWI)<br>Kultur- und Weinbotschafter Pfalz</p>\n",
+            "content_html": "<p>Pfälzer Weinbergführungen, Weinseminare und Rundgänge durch den Edelweinort Weisenheim am Berg </p>\n<p> </p>\n<p><strong>Thorsten Eiselstein</strong></p>\n<p>Anerkannter Berater für Deutschen Wein (DWI)<br>Kultur- und Weinbotschafter Pfalz</p>\n\n<p>In Ludwigshafen am Rhein geboren/aufgewachsen in Weisenheim am Berg<br>Studium der Pädagogik mit den Schwerpunkten Erwachsenenbildung und Sozialpädagogik</p>\n<p>Fachleiter am Seminar für Ausbildung und Fortbildung der Lehrkräfte Karlsruhe (Berufliche Schulen))</p>",
             "author": {
-                "name": "Chris"
+                "name": "Eiselwein"
             },
             "tags": [
             ],
             "date_published": "2025-07-10T21:59:50+02:00",
-            "date_modified": "2025-07-10T22:41:35+02:00"
+            "date_modified": "2025-07-11T18:41:13+02:00"
         }
     ]
 }
